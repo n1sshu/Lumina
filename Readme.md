@@ -19,7 +19,7 @@
 * [Environment Variables](#environment-variables)
 * [Running the Project](#running-the-project)
 * [Contributing](#contributing)
-* [License](#license)
+* [Team Behind the Project](#Team-Behind-the-Project)
 
 ---
 
