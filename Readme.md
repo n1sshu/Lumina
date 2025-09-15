@@ -1,6 +1,6 @@
 # Lumina: Empowering Education with AI
 
-![Logo](images/logo.png)
+![Logo](client/public/logo.png)
 
 **Lumina** is an AI-powered learning platform developed for [YCS](https://ycs.lk/), offering interactive learning materials, ai powered features, and personalized study tools.
 
