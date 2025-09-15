@@ -98,7 +98,7 @@ root/
   - Add `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` to `.env`.
 
 6. **Gmail account for notifications**  
-  - Setup Gmail for Nodemailer.  
+  - Setup Gmail for Nodemailer. (Email & App password)
   - Add `EMAIL_USER` and `EMAIL_PASS` to `.env`.
 
 7. **Gemini API key**  
