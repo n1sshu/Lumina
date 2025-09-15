@@ -166,14 +166,14 @@ npm run lumina
 * Backend:
 
 ```bash
-cd backend
+cd server
 npm run dev
 ```
 
 * Frontend:
 
 ```bash
-cd frontend
+cd client
 npm run dev
 ```
 
