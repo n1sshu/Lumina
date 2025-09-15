@@ -1,0 +1,38 @@
+{
+  "name": "Lumina",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "education",
+    "mentorship",
+    "resources"
+  ],
+  "author": "Team Crimson @ C.W.W. Kanangara Central College Mathugama",
+  "license": "ISC",
+  "description": "This is the backend for Lumina, a platform for educational resources and mentorship.",
+  "dependencies": {
+    "@google/genai": "^1.15.0",
+    "bcryptjs": "^3.0.2",
+    "cloudinary": "^1.41.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.3",
+    "multer": "^2.0.2",
+    "multer-storage-cloudinary": "^4.0.0",
+    "nodemailer": "^7.0.5",
+    "nodemon": "^3.1.10",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-jwt": "^4.0.1",
+    "passport-local": "^1.0.0"
+  }
+}

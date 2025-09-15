@@ -1,0 +1,65 @@
+downgraded to react 18 beacuse react quill didn't compatible with the react 19
+
+Look at the navigation bar(I just copy and pasted the code, if there is a time make the nav bar from scratch)
+
+Look At the home page I didnt know ay code about the home page
+
+min-h- doesnt work for the react quill
+
+Features 
+If something missing from a student there is a feature that can list the missing thing
+(Found - to list by someone who found a bag or money)
+(Missing - to list some thing that is missing)
+Additional : Add some predefined categories like (Bag, Book, Pencil Case like that)
+
+Make the search case intensitive
+
+Show the report card of the student
+
+Show the error when use follow himself
+
+Add Mindmap to the platform
+
+Blog add Slugs m=npm i slugify
+
+Daily motivation quotes
+add quizes using ai
+
+Change the email when sending email change
+
+-----BUGS----
+when creating category if user added space between words there is an error, so make sure to add only '-' between words
+
+student dashboard my following not working as expected
+
+Fine tune AI prompts according to the sri lanka age and medium
+
+// {
+  //   name: "Study Schedule",
+  //   href: "/student-dashboard/study-schedule",
+
+  //   icon: Calendar,
+  //   description: "Your timetable",
+  //   roles: ["student"],
+  // },
+  // {
+  //   name: "Study Groups",
+  //   href: "/student-dashboard/study-groups",
+  //   icon: GraduationCap,
+  //   description: "Collaborate & learn",
+  //   roles: ["student"],
+  // },
+  // {
+  //   name: "Notes & Assignments",
+  //   href: "/student-dashboard/notes",
+  //   icon: FileText,
+  //   description: "Your academic work",
+  //   roles: ["student"],
+  // },
+  // {
+  //   name: "Study Progress",
+  //   href: "/student-dashboard/progress",
+  //   icon: Clock,
+  //   description: "Track learning goals",
+  //   roles: ["student"],
+  // },

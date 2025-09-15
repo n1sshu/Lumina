@@ -1,0 +1,13 @@
+{
+  "name": "lumina",
+  "version": "1.0.0",
+  "description": "An intuitive AI-powered learning platform that empowers students to learn smarter, track progress, and master skills with interactive courses, quizzes, and personalized study tools.",
+  "scripts": {
+    "lumina": "concurrently \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\""
+  },
+  "author": "Team Crimson",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

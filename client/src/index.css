@@ -1,0 +1,27 @@
+  /* LUMINA DASHBOARD COLOUR THEME */
+
+
+@import "tailwindcss";
+@import "tw-animate-css";
+@custom-variant dark (&:where(.dark, .dark *));
+@theme {
+  --font-display: "Satoshi", sans-serif;
+  --breakpoint-3xl: 120rem;
+ /* Light theme colors */
+--color-yellow: #3498db; /* Modern light blue */
+--color-primary: #2980b9; /* Deep sky blue */
+--color-secondary: #1abc9c; /* Aqua teal */
+--color-bg: #eaf2f8; /* Very light blue/gray background */
+--color-text: #2c3e50; /* Keep deep slate gray for readability */
+--color-accent: #5dade2; /* Bright accent blue */
+
+/* Dark theme colors */
+--color-primary-dark: #21618c; /* Darker blue for contrast */
+--color-secondary-dark: #138d75; /* Rich teal */
+--color-bg-dark: #0d1f2d; /* Dark navy-blue */
+--color-text-dark: #ecf0f1; /* Soft off-white for readability */
+--color-accent-dark: #2874a6; /* Warm bluish accent */
+
+  --ease-fluid: cubic-bezier(0.3, 0, 0, 1);
+  --ease-snappy: cubic-bezier(0.2, 0, 0, 0, 1);
+}
