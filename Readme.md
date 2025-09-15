@@ -71,15 +71,9 @@ root/
 
 ## **Screenshots**
 
-### Frontend
-
-![Frontend Screenshot](https://via.placeholder.com/600x400.png?text=Frontend+Screenshot)
-
-### Backend
-
-![Backend Screenshot](https://via.placeholder.com/600x400.png?text=Backend+Screenshot)
-
-> Replace the above images with actual screenshots of your project.
+![ Screenshot](images/screenshot1.png)
+![ Screenshot](images/screenshot2.png)
+![ Screenshot](images/screenshot3.png)
 
 ---
 
